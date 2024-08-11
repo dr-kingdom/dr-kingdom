@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+⚡ I enjoy crushing bugs before they crush me. ⚡
 
 <!--
 **dr-kingdom/dr-kingdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="[https://github-readme-stats.vercel.app/api?username=dr-kingdom&theme=default&show_icons=true&hide_border=true&count_private=true](https://user-images.githubusercontent.com/58976716/233138769-022c7589-c06d-4760-b691-546b29e30c51.svg)" alt="dr-kingdom's GitHub Stats" />
+### dr-kingdom's Github stats
+![GitHub Stats](https://user-images.githubusercontent.com/58976716/233138769-022c7589-c06d-4760-b691-546b29e30c51.svg)
