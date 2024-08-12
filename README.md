@@ -1,5 +1,5 @@
 # Hi there 👋
-⚡ I enjoy crushing bugs before they crush me. ⚡
+⚡ I enjoy crunching data and crushing bugs before they crush me. ⚡
 
 <!--
 **dr-kingdom/dr-kingdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### dr-kingdom's Github stats
-![GitHub Stats](https://user-images.githubusercontent.com/58976716/233138769-022c7589-c06d-4760-b691-546b29e30c51.svg)
